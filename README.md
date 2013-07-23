@@ -1,10 +1,9 @@
 steps
 ====
 0.
-
-first, you need having installed 'node' and 'npm'
-
-http://nodejs.org/
+rerequisites:
+node v0.8 or higher
+npm (comes with node v0.8 installer)
 
 1.
 ```
