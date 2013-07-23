@@ -1,10 +1,12 @@
 steps
 ====
 0.
+```
 rerequisites:
+
 node v0.8 or higher
 npm (comes with node v0.8 installer)
-
+```
 1.
 ```
 git clone https://github.com/char1ee/book.git
