@@ -1,0 +1,4016 @@
+{
+  "price": 0,
+  "fixed_price": 0,
+  "data": {
+    "sample": false,
+    "posts": [
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "text": "平江路。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12709141
+          },
+          {
+            "data": {
+              "text": "09年到苏州的时候没有去，其实当时还路过的。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12709142
+          },
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 88470,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/88470.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88470.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88470.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88470.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88470.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13888135
+          },
+          {
+            "data": {
+              "text": "2010年这次再到苏州，因为挺多朋友的推荐，于是就去了平江路，住在了那边的青旅里，但是他们提到的“好玩”的那条主街我只逛了两遍，第一遍是晚上到的时候随便走了走，第二遍是转天送同学去拙政园的时候从那条主街经过，等我一个人的时候，我立刻又钻进了平江路一带的小巷子里，而关于那条街，印象里也只是一些特色的小店了，但是于我这个粗人来说，那么文艺的东西感觉还是很遥远的……",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12709143
+          },
+          {
+            "data": {
+              "text": "清早拍摄的时候，遇到一个阿婆，看我在东拍西拍，就过来问我觉得这里好看不好看，那时候我就在传说中的“好玩”的那条街上和一座石桥的路口，出于礼貌，我只能说句“挺好的”，没想到阿婆却很认真的跟我说：“一点都不好，这有什么值得拍的。”",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12709144
+          },
+          {
+            "data": {
+              "text": "听着话语中的情绪，我想，一定是他们平静的生活被这些外来的商铺和喧闹打乱，是这种入侵了造成的心理上的反抗吧。那些商铺和他们的生活没有太大关系，咖啡馆、饰品店、创意店等等，大多都是为了迎合旅游开发而设的，是这条街的旅游商业价值吸引了投资，可惜，很多店铺经营的东西无异于其他某个遥远的地方的某条古街……",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12709145
+          },
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 88469,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/88469.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88469.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88469.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88469.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88469.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13888136
+          }
+        ],
+        "title": "序",
+        "subtitle": "无偿的帮他们记录",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "text": "清晨，走在苏州城区的很多小巷子里，虽避免不了隐约的城市噪声，但仍感觉像是在一个大公园里，鸟语花香。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12807382
+          },
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 81912,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/81912.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81912.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81912.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/81912.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/81912.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 12859610
+          },
+          {
+            "data": {
+              "text": "平江路也和其他大多数巷子一样，当地原居民按部就班的过着自己的日子，至少还有清晨是没有怎么变味儿的。只是街旁那些蛰伏的夜兽，身上插着的旗子，仍然有些扎眼。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12807383
+          }
+        ],
+        "title": "清晨的平江路",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "L",
+              "dimension": "S",
+              "seq": 81914,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81914.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81914.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/81914.jpg",
+                  "height": 271,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/81914.jpg",
+                  "height": 768,
+                  "width": 512
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 12859611
+          },
+          {
+            "data": {
+              "text": "不知什么时候起，茶社多了起来，也不知什么时候起，这样的茶社少了，咖啡厅多了起来。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12809099
+          },
+          {
+            "data": {
+              "legend": "",
+              "layout": "R",
+              "dimension": "H",
+              "seq": 81916,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/81916.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81916.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81916.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/81916.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/81916.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 12859612
+          }
+        ],
+        "title": "茶社的变化 ",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 81917,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/81917.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81917.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81917.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/81917.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/81917.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 12859806
+          },
+          {
+            "data": {
+              "text": "那些老窗子，它们心里藏着多少故事，这些眼睛又记录了多少世间苍凉，记录了平江路的变化，到了晚上，它们又隐匿于灯红酒绿之下了，主动的或被动的。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12813059
+          }
+        ],
+        "title": "街旁的老窗子",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 81918,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/81918.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81918.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81918.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/81918.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/81918.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 12859842
+          },
+          {
+            "data": {
+              "text": "就像一对儿老伙计，靠在邮筒上，聊着天。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12813661
+          }
+        ],
+        "title": "就像一对儿老伙计 ",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 81920,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/81920.jpg",
+                  "height": 362,
+                  "width": 544
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81920.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81920.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/81920.jpg",
+                  "height": 120,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/81920.jpg",
+                  "height": 683,
+                  "width": 1024
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 12860004
+          },
+          {
+            "data": {
+              "text": "离主街很近的水井被保护起来了，同时也保护着路人，特别是避免孩子掉下去。 有刚刚打过水的迹象。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12813735
+          },
+          {
+            "data": {
+              "legend": "",
+              "layout": "L",
+              "dimension": "M",
+              "seq": 81922,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/81922.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81922.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81922.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/81922.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/81922.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 12860006
+          },
+          {
+            "data": {
+              "legend": "",
+              "layout": "R",
+              "dimension": "M",
+              "seq": 81924,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/81924.jpg",
+                  "height": 362,
+                  "width": 544
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81924.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81924.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/81924.jpg",
+                  "height": 120,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/81924.jpg",
+                  "height": 683,
+                  "width": 1024
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 12860007
+          }
+        ],
+        "title": "那些与生活息息相关水井",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "M",
+              "seq": 81926,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81926.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81926.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/81926.jpg",
+                  "height": 271,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/81926.jpg",
+                  "height": 768,
+                  "width": 512
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 12860025
+          },
+          {
+            "data": {
+              "text": "它们闭合时的样子是那么的驯良，可是，不得不承认，这些被租出去的店铺，大部分都成为了扰乱清净的帮凶。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12818886
+          }
+        ],
+        "title": "沉睡的帮凶",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 81927,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/81927.jpg",
+                  "height": 362,
+                  "width": 544
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81927.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81927.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/81927.jpg",
+                  "height": 120,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/81927.jpg",
+                  "height": 683,
+                  "width": 1024
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 12860026
+          },
+          {
+            "data": {
+              "text": "随着平江路旅游开发客流量的增大，很多小商店的生意也好了一些，可是，这样的蒸蒸日上到底是不是他们真正想要的？",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12818890
+          }
+        ],
+        "title": "好起来的生意",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "text": "为了看到真实的平江路，天还没亮我就睡不着了，准备妥当天刚微微亮，站在旅社门口，看人们从石桥经过。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12819021
+          },
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 81929,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/81929.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81929.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81929.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/81929.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/81929.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 12860027
+          },
+          {
+            "data": {
+              "text": "看到孩子们背着书包上学，晨练归来老人拎着早市买回的菜，这才是人们未被污染的生活，可是在这个清晨，这张照片左上角的咖啡馆的牌子，真的是无比扎眼。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12819022
+          }
+        ],
+        "title": "真实的平江路",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "M",
+              "seq": 81931,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81931.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81931.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/81931.jpg",
+                  "width": 181,
+                  "height": 271
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/81931.jpg",
+                  "width": 512,
+                  "height": 768
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 12860039
+          },
+          {
+            "data": {
+              "text": "一条临水的小路，不远处一个骑单车的人扭着头望着河对面，似乎是有人向他打招呼，也可能是他发现对面的老房子在装修，自从开发之后，很多房子都开始装修做起了生意。他心里在盘算着什么呢？当然，我更愿意把这幅画面想象成对岸有熟人在朝他打招呼，在老街巷里，看着那些充满微笑互相打招呼的老街坊，作为一个外人，心里都能感到暖暖的，一扫这冬日江南的阴冷。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12819141
+          },
+          {
+            "data": {
+              "text": "可是，怎么就突然想到了我那在北方的家乡，能遇到的老街坊越来越少，我们的微笑越来越少。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12819142
+          }
+        ],
+        "title": "打招呼的人",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 81932,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/81932.jpg",
+                  "height": 362,
+                  "width": 544
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81932.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81932.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/81932.jpg",
+                  "height": 120,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/81932.jpg",
+                  "height": 683,
+                  "width": 1024
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 12860040
+          },
+          {
+            "data": {
+              "text": "透过一条黑暗的甬道，我们能看到光明的指引，并且循着光明穿越黑暗，走向光明，这样多好。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12819362
+          }
+        ],
+        "title": "光明的指引",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 81933,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/81933.jpg",
+                  "height": 362,
+                  "width": 544
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81933.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81933.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/81933.jpg",
+                  "height": 120,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/81933.jpg",
+                  "height": 683,
+                  "width": 1024
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 12860041
+          },
+          {
+            "data": {
+              "text": "坚持锻炼才是最好的养生，身后的养生馆不过是一种打着旗号的高消费罢了。可是，城市化让高档的餐厅越来越多，城市里寸土寸金，可供居民锻炼的空地越来越少。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12819363
+          }
+        ],
+        "title": "最好的养生",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "M",
+              "seq": 81935,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81935.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "medium": {
+                  "src": "http:/img3.douban.com/view/ark_works_pic/common-small/public/81935.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/81935.jpg",
+                  "width": 181,
+                  "height": 271
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/81935.jpg",
+                  "width": 512,
+                  "height": 768
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 12860042
+          },
+          {
+            "data": {
+              "text": "局部构图有时可以让画面内容紧凑又不失想象空间，脚下的一部分护栏，还让观看者有很强的位置感。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12819380
+          },
+          {
+            "data": {
+              "text": "可有时候我们也只剩下了想象，想象我们的老房子还在，看到没有拆完的故土，想象着曾经在那里生活的原汁原味一朝一夕。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12819381
+          }
+        ],
+        "title": "想象的空间",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 81936,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/81936.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81936.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81936.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/81936.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/81936.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 12860903
+          },
+          {
+            "data": {
+              "text": "以前都是破败的部分腐蚀新鲜的，如今，对关于城市化和旅游开发，却恰恰反了过来。那些记载着岁月的老墙，都说是要刷上新墙面，可总觉得是要被新鲜的石灰吃掉。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12836874
+          }
+        ],
+        "title": "逻辑反了的腐蚀",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 81937,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/81937.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81937.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81937.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/81937.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/81937.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 12861129
+          },
+          {
+            "data": {
+              "text": "骑单车的人们，早就习惯了拐弯时的小心翼翼。可每当游人太多的时候，根本就只能推着走。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12837042
+          },
+          {
+            "data": {
+              "text": "小时候骑车上街总是战战兢兢，如今的我是根本不敢骑车到大路上了。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12837043
+          }
+        ],
+        "title": "骑不起来的单车",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 81938,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/81938.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81938.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81938.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/81938.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/81938.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 12861130
+          },
+          {
+            "data": {
+              "text": "我们的队伍向太阳。要热爱光，爱真实。连狗都会如此，何况是人？",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12837075
+          },
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "M",
+              "seq": 81939,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81939.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81939.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/81939.jpg",
+                  "width": 181,
+                  "height": 271
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/81939.jpg",
+                  "width": 512,
+                  "height": 768
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 12861132
+          }
+        ],
+        "title": "我们的队伍向太阳",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 81941,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/81941.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81941.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81941.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/81941.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/81941.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 12861143
+          },
+          {
+            "data": {
+              "text": "就像，一个死去的人的头，耷拉下来，屋顶的黑瓦是他的胡子。最上面的窗户是嘴，下面是两只眼睛。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12837319
+          }
+        ],
+        "title": "窗户与脸",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 81942,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/81942.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81942.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81942.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/81942.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/81942.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 12861215
+          },
+          {
+            "data": {
+              "text": "家家户户都有不同的故事，就在那巷子深处。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12837414
+          }
+        ],
+        "title": "就在那巷子深处",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 81944,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/81944.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81944.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81944.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/81944.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/81944.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 12861216
+          },
+          {
+            "data": {
+              "text": "那些坚守的老房子，不被旅游开发就被遗弃，直到它们被招安，才能得到修葺的机会吧。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12837625
+          }
+        ],
+        "title": "那些坚守的老房子",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 81946,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/81946.jpg",
+                  "height": 362,
+                  "width": 544
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81946.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81946.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/81946.jpg",
+                  "height": 120,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/81946.jpg",
+                  "height": 683,
+                  "width": 1024
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 12861217
+          },
+          {
+            "data": {
+              "text": "尽头，两个人在聊着天，只看得到轮廓，我们希望他们是所有人之中的任何人。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12837791
+          }
+        ],
+        "title": "所有人中的任何人",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 81948,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/81948.jpg",
+                  "height": 362,
+                  "width": 544
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81948.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81948.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/81948.jpg",
+                  "height": 120,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/81948.jpg",
+                  "height": 683,
+                  "width": 1024
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 12861272
+          },
+          {
+            "data": {
+              "text": "多希望，永远这样下去。它们看外来人的眼神永远是疑惑而不是充满戒备。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12837792
+          }
+        ],
+        "title": "狗儿的眼神",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 81950,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/81950.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81950.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/81950.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/81950.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/81950.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 12861273
+          },
+          {
+            "data": {
+              "text": "在那巷子的拐角处，我们可以听到单车的铃声，还有对童年故事中那些鬼怪的忌惮。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12859592
+          }
+        ],
+        "title": "那巷子的拐角处",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "L",
+              "dimension": "S",
+              "seq": 88282,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88282.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88282.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88282.jpg",
+                  "height": 271,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88282.jpg",
+                  "height": 768,
+                  "width": 512
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13835489
+          },
+          {
+            "data": {
+              "text": "在北方我的家乡，小时候也是有那么一个理发店的，关于那些称呼，却从来不喊老板，而是像自家亲戚似的喊姑姑，叔叔，姥姥等等。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 12861910
+          },
+          {
+            "data": {
+              "legend": "",
+              "layout": "R",
+              "dimension": "H",
+              "seq": 88283,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/88283.jpg",
+                  "height": 362,
+                  "width": 544
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88283.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88283.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88283.jpg",
+                  "height": 120,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88283.jpg",
+                  "height": 683,
+                  "width": 1024
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13835490
+          }
+        ],
+        "title": "便民理发店",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 88284,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/88284.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88284.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88284.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88284.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88284.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13835491
+          },
+          {
+            "data": {
+              "text": "那么多寻常的墙角，我们却很少有人站在那里观察光明转身。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13029870
+          }
+        ],
+        "title": "阳光的转角处",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "当树影爬上窗子",
+              "layout": "C",
+              "dimension": "M",
+              "seq": 88285,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88285.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88285.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88285.jpg",
+                  "height": 271,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88285.jpg",
+                  "height": 768,
+                  "width": 512
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13835492
+          }
+        ],
+        "title": "当树影爬上窗子",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 88318,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/88318.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88318.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88318.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88318.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88318.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13844741
+          },
+          {
+            "data": {
+              "text": "在远离商业开发的街巷，这些居民怡然自得，沐浴着冬日暖暖的阳光，多惬意。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13835619
+          }
+        ],
+        "title": "未被入侵的街区 ",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 88316,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/88316.jpg",
+                  "height": 362,
+                  "width": 544
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88316.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88316.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88316.jpg",
+                  "height": 120,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88316.jpg",
+                  "height": 683,
+                  "width": 1024
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13844715
+          },
+          {
+            "data": {
+              "text": "有的人忍受不了这喧闹，于是搬离了这里，把老房子租出去。街巷里，能看到的老人坐成一排谈天的景象也越来越少了。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13835656
+          }
+        ],
+        "title": "一些人搬离了",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "除了商业侵入，其他的侵入也随处可见。",
+              "layout": "C",
+              "dimension": "M",
+              "seq": 88317,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88317.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88317.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88317.jpg",
+                  "height": 271,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88317.jpg",
+                  "height": 768,
+                  "width": 512
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13844740
+          }
+        ],
+        "title": "其他元素的侵入",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 88311,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/88311.jpg",
+                  "height": 362,
+                  "width": 544
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88311.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88311.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88311.jpg",
+                  "height": 120,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88311.jpg",
+                  "height": 683,
+                  "width": 1024
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13844644
+          },
+          {
+            "data": {
+              "text": "旅游区由于客流量大，总有大量被丢弃的垃圾，关于这个收废品的人，这里显然不是他的家，但是在他的家门口，是否也同样有一把空椅子，等着他忙碌一天之后坐在上面小憩？",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13835700
+          }
+        ],
+        "title": "收废品的人与空椅子 ",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 88312,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/88312.jpg",
+                  "height": 362,
+                  "width": 544
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88312.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88312.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88312.jpg",
+                  "height": 120,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88312.jpg",
+                  "height": 683,
+                  "width": 1024
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13844645
+          },
+          {
+            "data": {
+              "text": "关于这样的巷口，总是有很多相遇与寒暄，住在这户的人肯定会对过路的街坊说“进来坐会吧”，若是赶上饭点，还会客气地邀进家里吃饭。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13835869
+          }
+        ],
+        "title": "有那么多相遇的巷口",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 88313,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/88313.jpg",
+                  "height": 362,
+                  "width": 544
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88313.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88313.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88313.jpg",
+                  "height": 120,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88313.jpg",
+                  "height": 683,
+                  "width": 1024
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13844646
+          },
+          {
+            "data": {
+              "text": "清晨，两个阿婆在巷口聊天，太阳升起，把她们的身影投在巷子的地面上。我的旁边，好像是一个维修工人推车路过。直到现在我看这张照片，脑中还能浮想起那个清晨，上班和买菜的居民，人来人往，可那种嘈杂，相对于游客的打扰，却真实得理所应当，存在得非常充分。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13836162
+          }
+        ],
+        "title": "清晨的那一幕幕",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 88314,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/88314.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88314.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88314.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88314.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88314.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13844647
+          },
+          {
+            "data": {
+              "text": "一是人们都富裕了，二是旅游景点游人的涌入，停车也成了个大问题，不是家门口被别人停的车堵了路，就是自己开车找不到停车位，结果又堵了别人家门口的路。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13844623
+          }
+        ],
+        "title": "门前请勿停车",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "除了精致的笔体，那院子中又有怎样精致的故事呢？拍一些带有门牌号的照片时，我总想着会不会有这户人家的人看到这张照片呢？",
+              "layout": "C",
+              "dimension": "M",
+              "seq": 88315,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88315.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88315.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88315.jpg",
+                  "width": 181,
+                  "height": 271
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88315.jpg",
+                  "width": 512,
+                  "height": 768
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13844668
+          }
+        ],
+        "title": "隽秀精致的字迹 ",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "巷子里的一个画面，尽头已经是新楼房了。前面的人刚好遮住了头，像是一个预言。",
+              "layout": "C",
+              "dimension": "M",
+              "seq": 88319,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88319.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88319.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88319.jpg",
+                  "width": 181,
+                  "height": 271
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88319.jpg",
+                  "width": 512,
+                  "height": 768
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13845316
+          }
+        ],
+        "title": "总是有那么多逼近",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "我想象着这样一幅画面：一个工人拖着一身疲惫下班回到家门口，那只是一双工作时的手套，他摘下来随手放到了门口的消防栓上，等上班时再带上。其实很多开放式的画面，都可以让人产生联想。",
+              "layout": "C",
+              "dimension": "M",
+              "seq": 88320,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88320.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88320.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88320.jpg",
+                  "width": 181,
+                  "height": 271
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88320.jpg",
+                  "width": 512,
+                  "height": 768
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13845317
+          },
+          {
+            "data": {
+              "text": "",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13845313
+          },
+          {
+            "data": {
+              "text": "",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13845314
+          }
+        ],
+        "title": "手套的主人 ",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 88321,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/88321.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88321.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88321.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88321.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88321.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13845318
+          },
+          {
+            "data": {
+              "text": "我想，对于一些曾经住在这里的人，那些熟悉的情景、忘不掉的记忆，也应该包括这些曾经恼人的小广告。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13845315
+          }
+        ],
+        "title": "小广告的残骸 ",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 88322,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/88322.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88322.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88322.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88322.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88322.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13845322
+          },
+          {
+            "data": {
+              "text": "就算那么多电表挨着，也只证明有许多住户紧挨着，却证明不了他们的主人都还住在这里。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13845319
+          }
+        ],
+        "title": "不变的电表 ",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "一个人从旧巷子骑着三轮车即将进入有新建筑的部分。就像是在说，由旧到新，只有这一个方向，一个趋势。",
+              "layout": "C",
+              "dimension": "M",
+              "seq": 88323,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88323.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88323.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88323.jpg",
+                  "height": 271,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88323.jpg",
+                  "height": 768,
+                  "width": 512
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13845323
+          }
+        ],
+        "title": "由旧到新",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "一户人家的门，福字只剩下了一个，另一个也翘了角，可能不久也要掉下来了。",
+              "layout": "C",
+              "dimension": "M",
+              "seq": 88326,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88326.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88326.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88326.jpg",
+                  "height": 271,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88326.jpg",
+                  "height": 768,
+                  "width": 512
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13845503
+          }
+        ],
+        "title": "福无双至",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "亭子或长廊，与清晨来往的老人身影放在一起，是那么的融洽。",
+              "layout": "L",
+              "dimension": "M",
+              "seq": 88324,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/88324.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88324.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88324.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88324.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88324.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13845501
+          },
+          {
+            "data": {
+              "legend": "或许这已是他们记不得的第多少次相遇了。",
+              "layout": "R",
+              "dimension": "M",
+              "seq": 88325,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/88325.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88325.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88325.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88325.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88325.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13845502
+          }
+        ],
+        "title": "亭子内的视角",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "巷子里有光，也有渐行渐远的身影。",
+              "layout": "C",
+              "dimension": "M",
+              "seq": 88458,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88458.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88458.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88458.jpg",
+                  "width": 181,
+                  "height": 271
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88458.jpg",
+                  "width": 512,
+                  "height": 768
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13867319
+          },
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "M",
+              "seq": 88459,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88459.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88459.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88459.jpg",
+                  "width": 181,
+                  "height": 271
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88459.jpg",
+                  "width": 512,
+                  "height": 768
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13867320
+          }
+        ],
+        "title": "远去的光 ",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 88481,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/88481.jpg",
+                  "height": 362,
+                  "width": 544
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88481.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88481.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88481.jpg",
+                  "height": 120,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88481.jpg",
+                  "height": 683,
+                  "width": 1024
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13889209
+          },
+          {
+            "data": {
+              "text": "走在巷子里，能路过街坊的厨房，闻到香气的话，肯定是要问上一句的“今天吃什么呀？”",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13845556
+          }
+        ],
+        "title": "街坊的厨房",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 88451,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/88451.jpg",
+                  "height": 362,
+                  "width": 544
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88451.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88451.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88451.jpg",
+                  "height": 120,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88451.jpg",
+                  "height": 683,
+                  "width": 1024
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13867192
+          },
+          {
+            "data": {
+              "text": "旧城改造和旅游开发的进入，让人们看桥的好角度越来越少了。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13845557
+          },
+          {
+            "data": {
+              "legend": "",
+              "layout": "L",
+              "dimension": "S",
+              "seq": 88452,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88452.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88452.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88452.jpg",
+                  "height": 271,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88452.jpg",
+                  "height": 768,
+                  "width": 512
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13867193
+          },
+          {
+            "data": {
+              "legend": "",
+              "layout": "R",
+              "dimension": "M",
+              "seq": 88453,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/88453.jpg",
+                  "height": 362,
+                  "width": 544
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88453.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88453.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88453.jpg",
+                  "height": 120,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88453.jpg",
+                  "height": 683,
+                  "width": 1024
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13867194
+          }
+        ],
+        "title": "看桥的角度 ",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "时间太早，游客还没有太多，空空的游船在等着游客。",
+              "layout": "C",
+              "dimension": "M",
+              "seq": 88454,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88454.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88454.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88454.jpg",
+                  "height": 271,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88454.jpg",
+                  "height": 768,
+                  "width": 512
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13867195
+          },
+          {
+            "data": {
+              "text": "",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13845558
+          }
+        ],
+        "title": "空游船 ",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 88455,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/88455.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88455.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88455.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88455.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88455.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13867196
+          },
+          {
+            "data": {
+              "text": "那投影的起伏，就像是山，太阳的位置移动，那山也移动。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13845624
+          }
+        ],
+        "title": "移动的投影",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "蒲扇除了用来纳凉，也是点炉子生火的必需工具之一，等时间一到，巷子里就都是煤烟的味道了。",
+              "layout": "C",
+              "dimension": "M",
+              "seq": 88456,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88456.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88456.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88456.jpg",
+                  "height": 271,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88456.jpg",
+                  "height": 768,
+                  "width": 512
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13867197
+          },
+          {
+            "data": {
+              "text": "",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13845625
+          }
+        ],
+        "title": "蒲扇与炉子",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 88464,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/88464.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88464.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88464.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88464.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88464.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13869700
+          },
+          {
+            "data": {
+              "text": "临水而居的，在窗外晾衣服，在巷子里则要支起一个架子，或悬挂，或支在地上。赶上天气好，则趁着阳光能照过来的时光，赶紧晾起，一旦有下雨的征兆，家家户户都忙着出来收衣服。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13867578
+          },
+          {
+            "data": {
+              "text": "",
+              "format": {
+                "p_indent": false,
+                "p_quote": false,
+                "p_bold": false,
+                "t_indent": false,
+                "p_align": ""
+              }
+            },
+            "type": "breaker",
+            "id": 13869701
+          },
+          {
+            "data": {
+              "legend": "",
+              "layout": "L",
+              "dimension": "S",
+              "seq": 88465,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88465.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88465.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88465.jpg",
+                  "width": 181,
+                  "height": 271
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88465.jpg",
+                  "width": 512,
+                  "height": 768
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13869702
+          },
+          {
+            "data": {
+              "legend": "",
+              "layout": "R",
+              "dimension": "M",
+              "seq": 88466,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/88466.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88466.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88466.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88466.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88466.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13869703
+          },
+          {
+            "data": {
+              "text": "等以后人们都搬离了这里，住进了楼房，就很少有这样的光景了。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13867579
+          },
+          {
+            "data": {
+              "text": "那些楼房里的人们，封起了阳台，有足够的阳光，再不懂得珍惜。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13867580
+          }
+        ],
+        "title": "晾衣服，与珍惜",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "仅仅是隔着一条河，却觉得那边的世界离我很远。我是一个挺土的人，不懂得这些隐藏在历史街区内的小资情调是怎样的。",
+              "layout": "C",
+              "dimension": "M",
+              "seq": 88482,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88482.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88482.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88482.jpg",
+                  "height": 271,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88482.jpg",
+                  "height": 768,
+                  "width": 512
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13889216
+          },
+          {
+            "data": {
+              "text": "",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13868632
+          }
+        ],
+        "title": "河那边的故事",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "若是从前，应该不会有这么多剩饭粒被丢弃的。",
+              "layout": "C",
+              "dimension": "H",
+              "seq": 88460,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/88460.jpg",
+                  "height": 362,
+                  "width": 544
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88460.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88460.jpg",
+                  "height": 241,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88460.jpg",
+                  "height": 120,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88460.jpg",
+                  "height": 683,
+                  "width": 1024
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13869531
+          },
+          {
+            "data": {
+              "text": "",
+              "format": {
+                "p_indent": false,
+                "p_quote": false,
+                "p_bold": false,
+                "t_indent": false,
+                "p_align": ""
+              }
+            },
+            "type": "breaker",
+            "id": 13889217
+          },
+          {
+            "data": {
+              "text": "",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13869321
+          },
+          {
+            "data": {
+              "legend": "人们家门前河水也不能洗菜了。",
+              "layout": "C",
+              "dimension": "M",
+              "seq": 88461,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88461.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88461.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88461.jpg",
+                  "height": 271,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88461.jpg",
+                  "height": 768,
+                  "width": 512
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13869532
+          }
+        ],
+        "title": "饭与菜",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "legend": "比如随手晾在水边护栏上的拖布，还是让人感到市井生活并未走远。",
+              "layout": "C",
+              "dimension": "M",
+              "seq": 88462,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88462.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88462.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88462.jpg",
+                  "height": 271,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88462.jpg",
+                  "height": 768,
+                  "width": 512
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13869697
+          },
+          {
+            "data": {
+              "text": "",
+              "format": {
+                "p_indent": false,
+                "p_quote": false,
+                "p_bold": false,
+                "t_indent": false,
+                "p_align": ""
+              }
+            },
+            "type": "breaker",
+            "id": 13869698
+          },
+          {
+            "data": {
+              "legend": "地面上不知道谁家丢弃的。小时候我的老家胡同里也有一些类似的与周遭不搭调的东西，但是小时候从未留意，长大了再回去才会发现其实它都存在挺久了。",
+              "layout": "C",
+              "dimension": "M",
+              "seq": 88463,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88463.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88463.jpg",
+                  "height": 543,
+                  "width": 362
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88463.jpg",
+                  "height": 271,
+                  "width": 181
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88463.jpg",
+                  "height": 768,
+                  "width": 512
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13869699
+          }
+        ],
+        "title": "总是有一些司空见惯的",
+        "subtitle": "",
+        "orig_title": ""
+      },
+      {
+        "translator": "",
+        "orig_author": "",
+        "contents": [
+          {
+            "data": {
+              "text": "我是一个怀旧（或是说守旧？）的人，甚至还有点老土，虽然用着数码相机等等数码设备，却不能对新文化或新事物全盘接受，特别是面对现代化进程和城镇化极速推进的当今社会，感到很无力，却又做不了什么。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13888137
+          },
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "S",
+              "seq": 88471,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88471.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88471.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88471.jpg",
+                  "width": 181,
+                  "height": 271
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88471.jpg",
+                  "width": 512,
+                  "height": 768
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13888892
+          },
+          {
+            "data": {
+              "text": "以前到处溜达的时候，看到各地雷同的仿古街或是改造后的历史街区都是一个开发模式，总觉得非常的不自在，那些地方，第一次去的人包括我在内，可能感到很有意思，新奇事物很多，当地的或是异域的，可到了哪里都是同样的一排排店面，却真的让人觉得乏味甚至是反感了，当地的居民也被这突兀的侵入打乱了生活，当初在天津，那时候我还小，ＺＦ对于古文化街的开发竟然是让原居民都迁出了那片地方，留下一座到了夜晚就没有人气的空空的旅游街区，没有原居民的街区只是一座死城，任游人把玩的玩具，什么几Ａ级的头衔都掩盖不了它内在的苍白。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13888138
+          },
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "M",
+              "seq": 88476,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/88476.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88476.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88476.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88476.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88476.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13888893
+          },
+          {
+            "data": {
+              "text": "整个村头摄影系列大部分是这个基调，意在记录，让人们更多的关注乡村，关注故土，关注那普通却弥足珍贵的真实的曾经。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13888139
+          },
+          {
+            "data": {
+              "text": "有人在《武汉老里份》那部留言说这不是摄影，那么我就不是摄影吧，就让他们那些拿着高级器材常年去猎奇，去拍风景的人尽情的享用摄影大师的光环吧。我们只拍我们的生活，记录即将消失的事物，他们那些“大师”很忙，没有时间来记录这些，也不屑于记录这些。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13888140
+          },
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "M",
+              "seq": 88472,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/88472.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88472.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88472.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88472.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88472.jpg",
+                  "width": 1024,
+                  "height": 682
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13888894
+          },
+          {
+            "data": {
+              "text": "看到有那么一句话是这样的：“当你经常回忆的时候，你就老了。”但是等我们真的老了，到了容易回想起过去的年纪，却找不到回忆的那些本体了，比如老人、老房子还有老行当，既然现代化进程的大潮不可抗拒，那么我们能做的就唯有记录了。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13888141
+          },
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "M",
+              "seq": 88474,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/88474.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88474.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88474.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88474.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88474.jpg",
+                  "width": 1024,
+                  "height": 682
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13888895
+          },
+          {
+            "data": {
+              "text": "作为历史文化老街，平江路当然不会被拆，只是个人非常不认同这种开发模式，一味的引资，而不顾经营的内容，让临街商铺都变成了带有所谓“有趣”、“好玩”和“特色”名号的怪兽，相比于那些被拆掉的老房子，这更是一种让人看得见的伤痛。有人说我守旧也好，消极悲观也罢，总之我看到的就是这样，当你走遍了中国大部分由于开发才得到了一定保护的历史街区，看到的都是同一种商业模式，卖的都是差不多的东西，传播的都是雷同的所谓“文艺”，相信你也会有这样的感受。",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "left",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13888142
+          },
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "M",
+              "seq": 88477,
+              "size": {
+                "large": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-large/public/88477.jpg",
+                  "width": 544,
+                  "height": 362
+                },
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88477.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88477.jpg",
+                  "width": 362,
+                  "height": 241
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88477.jpg",
+                  "width": 181,
+                  "height": 120
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88477.jpg",
+                  "width": 1024,
+                  "height": 683
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13888896
+          },
+          {
+            "data": {
+              "legend": "",
+              "layout": "L",
+              "dimension": "S",
+              "seq": 88478,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88478.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88478.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88478.jpg",
+                  "width": 181,
+                  "height": 271
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88478.jpg",
+                  "width": 512,
+                  "height": 768
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13888897
+          },
+          {
+            "data": {
+              "legend": "",
+              "layout": "C",
+              "dimension": "S",
+              "seq": 88479,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88479.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88479.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88479.jpg",
+                  "width": 181,
+                  "height": 271
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88479.jpg",
+                  "width": 512,
+                  "height": 768
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13888898
+          },
+          {
+            "data": {
+              "legend": "",
+              "layout": "R",
+              "dimension": "S",
+              "seq": 88480,
+              "size": {
+                "small": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88480.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "medium": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-small/public/88480.jpg",
+                  "width": 362,
+                  "height": 543
+                },
+                "tiny": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-tiny/public/88480.jpg",
+                  "width": 181,
+                  "height": 271
+                },
+                "orig": {
+                  "src": "http://img3.douban.com/view/ark_works_pic/common-largeshow/public/88480.jpg",
+                  "width": 512,
+                  "height": 768
+                }
+              }
+            },
+            "expandable": true,
+            "type": "illus",
+            "id": 13888899
+          },
+          {
+            "data": {
+              "text": "20130526 广州",
+              "format": {
+                "p_indent": false,
+                "p_center": false,
+                "p_quote": false,
+                "p_align": "right",
+                "p_bold": false,
+                "t_indent": false
+              }
+            },
+            "type": "paragraph",
+            "id": 13888143
+          }
+        ],
+        "title": "后记",
+        "subtitle": "一种看得见的伤痛",
+        "orig_title": ""
+      }
+    ],
+    "price": "0.00",
+    "hasFormula": false,
+    "pages": null
+  },
+  "promotion_remark": "",
+  "time": "1374488443:0:0"
+}
