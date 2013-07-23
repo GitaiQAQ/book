@@ -24,6 +24,6 @@ node app.js
 
 4.
 ```
-view http://127.0.0.1:3000
+visit http://127.0.0.1:3000
 ```
 
