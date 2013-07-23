@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head
+    <meta charset="utf-8">
+    <title></title>
+</head>
+<body>
+    <form action="upload">
+        <input type="file">
+    </form>
+
+    <script>
+        var J = {};
+        J.hello = function (data){
+            alert(data.a);
+        }
+    </script>
+
+
+    <script>
+        function getScript(src) {
+            var s = document.createElement('script');
+            s.src = src;
+            document.body.appendChild(s);
+            document.body.removeChild(s);
+        }
+    </script>
+</body>
+</html>

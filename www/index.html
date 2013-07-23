@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="ua-linux ua-webkit">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="Pragma" content="no-cache">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        <title></title>
+        <!--[if IE]><script src="/js/widget/html5-elements.js"></script><![endif]-->
+        <meta name="viewport" content=" user-scalable=no, width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <link rel="stylesheet" href="/css/reader/reader.css">
+        <link rel="stylesheet" href="/css/reader/phone.css" media="screen and (-webkit-min-device-pixel-ratio: 2) and (max-device-width: 640px), (max-width: 640px)">
+        <!--[if IE]><script src="/js/mod/browser.js"></script>
+            <script>
+                (function () {
+                    var Ark = window.Ark || {};
+                    window.Ark = Ark, Ark.requireAwesomeBrowser = function (options) {
+                        var env = Ark.env,
+                            distUrl = options.fallback,
+                            distUrlHash = "";
+                        env.nonsupport = env.msie && env.msie < options.minIE, env.nonsupport && (env.msie && env.shell && env.rank > 0 && (distUrlHash = 2 === env.rank ? "#requireChangeToWebkit" : "#requireNewIE"), distUrlHash && (distUrl += distUrlHash), location.replace(distUrl))
+                    }
+                })();
+
+                Ark.requireAwesomeBrowser({
+                    fallback: "/awesome_browsers",
+                    minIE: 8
+                });
+            </script>
+        <![endif]-->
+    </head>
+    <body>
+    <div id="home" style="display: none;">
+        <div class="reader-navigation">
+            <div class="content">
+                <h1 class="logo">
+                    <a href="/" title="豆瓣阅读">豆瓣阅读</a>
+                </h1>
+                <div class="link-to-book-store">
+                    <a class="btn-flat" href="/">作品商店<b class="triangle-right"></b></a>
+                </div>
+                <div class="session">
+                    <a class="username" href="/account/" target="_blank">耗子</a>
+                    <a class="log-out" href="/logout?ck=ogqq">[退出]</a>
+                </div>
+            </div>
+        </div>
+        <div class="library-heading">
+            <div class="header">
+                <ul class="library-filter-tabs">
+                    <li class="shown tab" data-tab-name="myPurchase">
+                        <h2>我的阅读列表</h2>
+                    </li>
+                </ul>
+            </div>
+        </div>
+<script id="article-item" type="text/template">
+    <a data-permalink href="{{- $item.url() }}">
+        <img class="article-item-media" src="{{- coverUrl }}" width=76 height=113 />
+        <div class="article-item-content">
+        <h3>
+            <span class="article-title-content"> {{- title }} </span>
+            {{ if (isSample) { }} <span class="sample-indicator">试读</span> {{ } }}
+        </h3>
+    <div class="author">
+    {{- authorName }} </div>
+    {{ if (translatorName) { }} <div class="author"> {{- translatorName }}译 </div> {{ } }} <div class="reading-progress"> {{ if (!progress) { }} 尚未阅读 {{ } else { }} <span class="progress-positive-dots progress-dots" >{{- $item.progressPositiveDots() }}</span>
+    <span class="progress-negative-dots progress-dots" >{{- $item.progressNegativeDots() }}</span>
+    <span class="progress-number" >{{- $item.progressPercent() }} </span> {{ } }} </div>
+    <div class="article-item-meta">
+    <div class="article-published-date"> {{ if ($item.isPublished()) { }} 发布时间 {{- $item.publishedDate() }} {{ } else { }} 尚未发布 {{ } }} </div>
+    <div class="impression"> {{ if (!isSample) { }} <div class="rating-stars"> {{ if (rating.rated) { }} <span class="stars-context stars-{{- $item.ratingAsInt() }}">
+    </span> {{ } else { }} 我还没有评分 {{ } }} </div> {{ } }} <div class="impression-numbers"> {{ if (reviewCount) { }} <span class="review-count"><span class="review-num"> {{- reviewCount }} </span>评论</span> {{ } }} </div></div> {{ if (isGift && !isOpened) { }} <div class="gift-mark"></div> {{ } }} </div></div></a><div class="article-actions"> {{ if (isSample) { }} <a href="/ebook/{{- id }}/#purchase" class="btn-purchase" target="_blank">购买全本</a> {{ } }} {{ if (!isGift || isGift && isOpened) { }} <a href="#" class="btn-archive">删除
+    </a> {{ } }} </div>
+</script>
+
+<script id="article-my-work-item" type="text/template">
+    <a data-permalink href="{{- $item.url() }}"><img class="article-item-media" src="{{- coverUrl }}" data-time="{{- publishedDate }}" width=76 height=113 /><div class="article-item-content"><h3> {{- title }} </h3><div class="author"> {{- authorName }} </div> {{ if (translatorName) { }} <div class="author"> {{- translatorName }}译 </div> {{ } }} <div class="reading-progress"> {{ if (!progress) { }} 尚未阅读 {{ } else { }} <span class="progress-positive-dots progress-dots" >{{- $item.progressPositiveDots() }}</span><span class="progress-negative-dots progress-dots" >{{- $item.progressNegativeDots() }}</span><span class="progress-number" >{{- $item.progressPercent() }} </span> {{ } }} </div><div class="article-item-meta"><div class="article-published-date"> {{ if ($item.isPublished()) { }} 发布时间 {{- $item.publishedDate() }} {{ } else { }} 尚未发布 {{ } }} </div><div class="impression"><div class="impression-numbers"> {{ if (reviewCount) { }} <span class="review-count">共<span class="review-num"> {{- reviewCount }} </span>评论</span> {{ } }} </div></div></div></div></a>
+</script>
+
+<script id="tmpl-archive-tips" type="text/template">
+    <p> 你可以在<a class="link-to-billing" href="/account/billing/" target="_blank">购买记录</a>中找到所有已购买的作品，重新加入阅读列表无需再次付费。</p>
+</script>
+
+<script id="tmpl-not-prompt" type="text/template">
+    <label class="checkbox"><input type="checkbox" id="not-prompt">不再提示</label>
+</script><div id="bookshelf"><ol class="bookshelf"></ol></div><script type="text/x-template" id="empty-reading-list"><div class="empty-reading-list"><div class="message"><p> 阅读列表中还没有作品，你可以 <a class="link-to-store" href="/">去作品商店添加作品</a></p></div></div>
+</script>
+
+<script type="text/x-template" id="tmpl-confirm"><div class="dialog-content-bd"><div class="confirm-content">{{= content}}</div><div class="confirm-actions"><a class="btn-flat" href="#" data-confirm="false">取消</a><a class="btn-flat" href="#" data-confirm="true">确定</a></div></div>
+</script><div class="library-footer"><p class="copyright"> &copy; 2005 - 2013 douban.com, all rights reserved. </p><ul class="footer-nav"><li><a href="/contact">联系我们</a></li><li><a href="/copyright">版权声明</a></li><li><a href="http://help.douban.com/help/ask?category=book&amp;amp;type=39">使用反馈</a></li></ul></div></div><div id="ark-reader" style="display: none;" class="is-annotation-enabled"><div class="aside"></div><div class="article"><div class="mask-spine"></div><div class="inner"><div class="page"><div class="content"><div class="loading-hint"> 作品载入中，请稍候 ... </div></div></div></div><div class="controls-panel"></div><div class="pagination"></div></div><script id="tmpl-controls-panel" type="text/template">
+    <ul class="controls-buttons"><li class="list-icon-outer toggle-toc" data-title="目录"><b class="icon-list"></b></li><li class="list-icon-outer toggle-annotations-panel" data-title="批注和划线"><b class="icon-annotations"></b></li></ul><div class="list-outer-content toc"></div><div class="list-outer-content content-annotations-panel"></div><div class="shortcut-tips"><div class="item"><h3>快捷键</h3><a class="bn-flat close-tips" href="#">关闭提示</a></div><div class="item"><span class="key-fullscreen"></span><span class="key-fn">全屏阅读</span></div><div class="item"><span class="key-turn-page"></span><span class="key-fn">翻页</span></div><div class="item"><span class="key-scroll-row"></span><span class="key-fn">整行上下移动</span></div></div>
+</script>
+
+<script id="tmpl-pagination" type="text/template">
+    <div class="page-prev" data-title="前翻"></div><div class="page-next" data-title="后翻"></div><div class="page-number"><div class="page-info"><span class="curr-num">1</span><span class="slash">/</span><span class="total-num">1</span><span class="progress-num">0%</span><a href="#" class="page-form-switch"><b class="switch-arrow"></b></a></div><div class="page-jump"><form class="page-form"><input type="text" class="page-input" value="5"><button type="submit" class="page-submit"></button></form><span class="page-custom-label">当前页</span></div></div>
+</script>
+
+<script id="tmpl-panel" type="text/template">
+    <ul class="panel"> {{ if (!isAnonymous) { }} <li id="fn-back" class="sep" data-title="阅读列表"><a href="/reader/" data-permalink class="icon-back" title="阅读列表">阅读列表</a></li> {{ } }} <li id="fn-layout" class="sep" data-title="阅读模式"><a href="#" title="阅读模式" class="icon-layout">阅读模式</a></li><li id="fn-salon" data-title="评论"><a href="{{- reviewsUrl}}" title="评论" target="_blank" class="icon-salon">评论</a></li> {{ if (!isAnonymous && !isSample && canRate) { }} <li id="fn-rating" data-title="评分" class="sep"><a href="#" title="评分" target="_blank" class="icon-rating">评分</a></li> {{ } }} <li id="fn-helper" data-title="指南"><a href="#" title="指南" class="icon-helper">指南</a></li></ul>
+</script>
+
+<script id="tmpl-tooltip" type="text/template">
+    <div class="tooltip"><div class="bubble-content"></div></div>
+</script>
+
+<script id="tmpl-empty-page" type="text/template">
+    <div class="page"><div class="loading-hint">{{= hint }}</div><div class="content"></div></div>
+</script>
+
+<script id="tmpl-mathplayer-hint" type="text/template">
+    <div class="mathplayer-hint"><p> 本作品包含数学公式，为确保内容正常显示，请先安装 MathPlayer。<br>安装完成后需重启浏览器，并允许浏览器运行该程序。</p><a href="http://www.dessci.com/en/dl/MathPlayer2.2setup.exe" class="btn-large">点击下载</a></div>
+</script>
+
+<script id="tmpl-article" type="text/template">
+     {{ _.each(posts, function(art) { }} <div class="story"><div class="info"><h1>{{- art.title }}</h1> {{ if (art.subtitle) { }} <h2>{{- art.subtitle }}</h2> {{ } }} <div class="author"><span class="orig-author"> {{= art.orig_author }} </span> {{ if (art.translator) { }} <span class="translator"> {{= art.translator }}&nbsp;译 </span> {{ } }} </div></div><div class="content"> {{ _.map(art.contents, function(p) { }} <p data-pid="{{= p.id }}" class="{{= p.type }} {{ if (p.type === 'illus') { }} {{ if (p.expandable) { print('expandable') } }} {{= p.data.dimension }}_{{= p.data.layout }} {{ } }} {{ if (p.data.format) { if (p.data.format.p_indent) { print('indentall ') } if (p.data.format.t_indent) { print('indent ') } if (p.data.format.p_align) { print(p.data.format.p_align + ' ') } else if (p.data.format.p_center) { print('center ') } if (p.data.format.p_bold) { print('bold ') } if (p.data.format.p_quote) { print('quote ') } } }}"> {{ if (p.type === 'illus') { var imgSizeMaps = { H: 'large', M: 'small', S: 'tiny' } }} <span class="illus-outer"><img class="loading" data-seq="{{= p.data.seq }}" data-orig-src="{{= p.data.size.orig.src }}" data-orig-width="{{= p.data.size.orig.width }}" data-orig-height="{{= p.data.size.orig.height }}" data-src="{{= p.data.size[imgSizeMaps[p.data.dimension]].src }}" width="{{= p.data.size[imgSizeMaps[p.data.dimension]].width }}" height="{{= p.data.size[imgSizeMaps[p.data.dimension]].height }}" /></span> {{ if (p.data.legend || p.data.full_legend) { }} <span class="legend" {{ if (p.data.full_legend) { }} data-full-legend="{{- p.data.full_legend }}" {{ } }}> {{= p.data.legend }} </span> {{ } }} {{ } else { }} {{ if (p.type === 'code') { }} <code data-language="{{= p.data.language}}" class="{{= splitCode.doSplit ? 'line-split' : ''}}" >{{= splitCode(p.data.text) }} </code> {{ } else { }} {{= p.data.text }} {{ } }} {{ } }} </p> {{ }); }} </div></div> {{ }); }}
+
+</script>
+<script id="tmpl-page" type="text/template">
+     {{ if (_.isObject(page.note)) { }} <div class="words-wrapper"><div class="words-wrapper-cell"><div class="words-main"><div class="words-hd"> 给 {{- page.note.recipient }} </div><div class="words-bd"> {{- page.note.words }} </div><div class="words-ft"> {{- page.note.sender }}<br> {{- page.note.date }} </div></div></div></div> {{ } else { }} <div class="hd"><h3>{{- page.title }}</h3> {{ if (isSample && +price) { }} <a class="btn-purchase" href="/ebook/{{= id }}/#purchase" target="_blank">购买全本 <b class="price">{{- price }}元</b></a> {{ } }} {{ if (Ark.me.isAnonymous) { }} <a href="#" class="login" data-target-dialog="login">登录</a> {{ } else if (!hasAdded) { }} <a class="lnk-collect" href="#">加入阅读列表</a> {{ } }} </div><div class="bd"> {{ if (page.info) { }} <div class="info" style="height:{{= page.info.height }}em"><h1>{{- page.info.title }}</h1> {{ if (page.info.subtitle) { }} <h2>{{- page.info.subtitle }}</h2> {{ } }} <div class="author"><span class="orig-author"> {{= page.info.orig_author }} </span> {{ if (page.info.translator) { }} <span class="translator"> {{= page.info.translator }} </span> {{ } }} </div></div> {{ } }} <div class="content"{{ if (page.content) { }} style="height:{{= page.content.height }}em"{{ } }}> {{ _.each(page.paragraphs, function (p) { }} <p data-pid="{{= p.pid }}" {{ if (p.klass) { }}class="{{= p.klass }}"{{ } }} {{ if (p.offset || p.height) { }} style="{{ if (p.offset>0) { }}margin-top:-{{= p.offset }}em;{{ } }} {{ if (p.height) { }}height:{{= p.height }}em{{ } }}" {{ } }}> {{ print(getParaContent(p)) }} </p> {{ }); }} </div></div><div class="ft" {{ if (page.pagination === 1) { }} id="page-captain" {{ } }}> {{= page.pagination }} </div> {{ } }}
+
+</script>
+<script id="tmpl-paragraph" type="text/template">
+    <p data-pid="{{= p.pid }}" {{ if (p.klass) { }}class="{{= p.klass }}"{{ } }} {{ if (p.offset || p.height) { }} style="{{ if (p.offset>0) { }}margin-top:-{{= p.offset }}em;{{ } }} {{ if (p.height) { }}height:{{= p.height }}em{{ } }}" {{ } }}> {{ print(getParaContent(p)) }} </p>
+</script>
+<script id="tmpl-toc" type="text/template">
+    <a href="#" class="close-panel-lnk">&times;</a><div class="hd"><h2><span class="pattern-left"></span><span class="title">目录</span><span class="pattern-right"></span></h2></div><div id="contents-list" class="bd"><ul> {{ _.each(list, function(item, idx) { }} <li><a id="page-{{= item.pageNum }}" tabIndex="{{= idx+1 }}" href="#" class="text"> {{= item.text }} </a><span class="num"> {{= item.pageNum }} </span></li> {{ }); }} </ul></div><div class="ft"><div class="close"></div></div>
+</script>
+<script id="tmpl-tips" type="text/template">
+    <div class="tips-outer footnote-tips"><div class="footnote"></div></div>
+</script>
+<script id="tmpl-illus" type="text/template">
+    <div class="orig-illus"><img src="{{= src }}"></div> {{ if (legend) { }} <div class="full-legend"> {{= legend }} </div> {{ } }}
+
+</script>
+<script id="tmpl-sample-tips" type="text/template">
+    <span class="purchase-block"><span class="text">{{= text }}</span><span class="purchase-info"><em class="price"> {{ if (+price) { }} {{= price }}&nbsp;元 {{ } else { }} 免费 {{ } }} </em> {{ if (isSample && !(price|0)) { }} <a href="#" class="btn btn-large btn-purchase" data-target-dialog="login">登录</a> {{ } else { }} <a class="btn btn-large btn-purchase" href="/ebook/{{= aid }}/#purchase" target="_blank">{{= btnText }}</a> {{ } }} </span></span>
+</script>
+<script id="tmpl-collect-tips" type="text/template">
+    点击此处将试读或免费作品加入阅读列表，可以在&nbsp;<a href="/intro/iphone" target="_blank">iPhone</a>、 <a href="/intro/ipad" target="_blank">iPad</a>&nbsp;和&nbsp; <a href="/intro/android" target="_blank">安卓阅读器</a>&nbsp;中阅读
+
+</script>
+<script id="tmpl-rating-form" type="text/template">
+    <form class="form-vertical" id="rating-form"><fieldset><div class="field-group"><div class="fields"><label class="my-rating">我的评分</label><div class="rating"></div></div></div><div id="field-edit" class="field-group"></div><div class="form-actions"></div></fieldset></form>
+</script>
+<script id="tmpl-rating" type="text/template">
+    <span href="#" data-stars="{{= rating }}" class="stars-context stars-{{= rating }}"><input type="radio" name="rating" class="star-region" data-star="1" value="1"><input type="radio" name="rating" class="star-region" data-star="2" value="2"><input type="radio" name="rating" class="star-region" data-star="3" value="3"><input type="radio" name="rating" class="star-region" data-star="4" value="4"><input type="radio" name="rating" class="star-region" data-star="5" value="5"></span>
+</script>
+<script id="tmpl-rating-comment" type="text/template">
+    <div class="fields"> {{ if (!rated || editingMode) { }} <div class="field-comment textarea-shell"><textarea class="rating-comment" rows="3"
+          name="comment" placeholder="简短附注">{{- comment}}</textarea></div> {{ } else if (comment) { }} <p class="comment-text">{{- comment }}</p> {{ } }} {{ if (rated && !editingMode) { }} <a href="#" class="link-edit">修改</a> {{ } }} </div>
+          </script>
+
+
+    <script id="tmpl-form-buttons" type="text/template">
+         {{ if (!rated || editingMode) { }} <label class="validation-error"></label><button type="submit" class="btn-link btn-cancel">取消</button><button type="submit" class="btn btn-bubble">发表</button> {{ } }}
+
+</script>
+<script id="tmpl-sharing-form" type="text/template">
+    <form class="share-form"> {{ if (!isBubble) { }} <div class="hd"><h3>推荐</h3></div> {{ } }} <div class="bd"><div class="sharing-shell"><textarea class="share-text"
+          maxlength="140"
+          placeholder="写点什么吧" name="text"></textarea></div><div class="share-options"><span class="item"><label><input id="share-dou" name="share_dou" type="checkbox" checked="checked">豆瓣广播</label></span><span class="item item-weibo"></span><a class="share-setting" target="_blank" href="/account/setting">设置</a> {{ if (isBubble) { }} <div class="right-actions"><a class="ln-cancel" href="#">取消</a><button type="submit" class="btn btn-bubble btn-post">确定</button></div> {{ } else { }} <button type="submit" class="btn btn-bubble btn-share">推荐</button> {{ } }} </div></div></form>
+          </script>
+
+
+    <script id="tmpl-share-weibo" type="text/template">
+         {{ if (weiboShared) { }} <label><input id="share-weibo" name="share_weibo" type="checkbox" checked="checked">新浪微博</label> {{ } else { }} <a href="/share/sina/connect" class="tips-bind" target="_blank">去绑定新浪微博</a> {{ } }}
+
+</script>
+<script id="tmpl-selection-tip-debug-form" type="text/template">
+    <div class="textarea-shell"><textarea placeholder="你认为正确的内容是？" name="text"
+      maxlength="500">{{- text}}</textarea></div><div class="actions"><div class="right-actions"><a class="ln-cancel" href="#">取消</a><button class="btn btn-bubble btn-post" type="submit">确定</button></div></div>
+      </script>
+
+
+<script id="tmpl-selection-tip-note-form" type="text/template">
+    <div class="textarea-shell"><textarea placeholder="你的批注" name="text">{{- content}}</textarea></div><div class="actions"><div class="right-actions"><a class="ln-cancel" href="#">取消</a><button class="btn btn-bubble btn-post" type="submit">确定</button></div></div>
+</script>
+
+
+<script id="tmpl-note-display" type="text/template">
+    <div class="note-content">{{- content}}</div><div class="actions"><a class="share" href="#">推荐</a>·<a class="edit" href="#">修改</a>·<a class="delete" href="#">删除</a> {{ if(total > 1) { }} <div class="right-actions pagination"><span class="pagination-info">{{- current}}/{{- total}}</span><a class="prev" href="#"></a><a class="next" href="#"></a></div> {{ } }} </div>
+</script>
+
+
+<script id="tmpl-annotations-panel" type="text/template">
+    <a href="#" class="close-panel-lnk">&times;</a><div class="panel-head"><h2>我的批注和划线</h2><div class="head-nav"><ul class="filter-tabs"><li><a href="#" data-sort-type="percent">按书的进度</a></li><li><a href="#" data-sort-type="time">按添加时间</a></li></ul></div></div><div class="panel-body"></div>
+</script>
+
+
+<script id="tmpl-annotations-panel-inline-form" type="text/template">
+    <textarea type="text" maxlength="500" class="text">{{- text}}</textarea><div class="form-actions"><button type="submit" class="btn post">保存</button><button type="button" class="btn btn-info cancel">取消</button></div>
+</script>
+
+
+<script id="tmpl-annotations-panel-item" type="text/template">
+    <div class="progress"><span class="percentum">{{- percent}}%</span></div><div class="bd"><div class="quote">{{- text}}</div> {{ if (isNote) {}} <div class="note"> {{- note}} </div> {{ } }} <div class="actions"><div class="common-actions"><a href="#" class="jump-annotation">跳至此段</a><i class="middle-dot"></i><a href="#" class="share-annotation">推荐</a></div><div class="edit-actions"><span class="timestamp">{{- create_time}}</span><a href="#" class="delete-annotation">删除</a> {{ if(isNote) { }} <a href="#" class="modify-annotation">修改</a> {{ } }} </div></div></div>
+</script>
+</div>
+
+<script src="/js/dist/reader/setup.js"></script>
+<script>
+    var Ark = {
+        me: {
+            "profileURL" : "http:\/\/www.douban.com\/people\/haozi1984\/",
+            "signature"  : "",
+            "id"         : "3502670",
+            "avatar"     : "http:\/\/img3.douban.com\/icon\/u3502670-2.jpg",
+            "name"       : "耗子"
+        }
+    }
+    Ark.me.isAnonymous = false
+    Ark.me.isAdmin = false
+    Ark.isAnnotationEnabled = true
+    Ark.MathJaxConfigPath = "js/config/reader/mathjax-config-tex-htmlormml.js"
+    Ark.HTTPS_DOUBAN = 'https://www.douban.com'
+    Ark.ZeroClipboardPath = "media/ZeroClipboard/ZeroClipboard.swf"
+    Ark.READER_DATA_VERSION = 'v2'
+
+    define('mathjax', 'libs/MathJax/2.1.0/MathJax.js' + '?config=' + Ark.MathJaxConfigPath);
+    define('widget/login-and-signup', "js/dist/widget/login-and-signup.js" );
+    define('reader/modules/hide_addressbar', "js/dist/reader/modules/hide_addressbar.js");
+    define('mod/touch', "mod/touch.js");
+</script>
+<!-- gardner7 -->
+</body>
+</html>
