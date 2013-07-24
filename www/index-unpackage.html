@@ -200,7 +200,8 @@
     <div class="progress"><span class="percentum">{{- percent}}%</span></div><div class="bd"><div class="quote">{{- text}}</div> {{ if (isNote) {}} <div class="note"> {{- note}} </div> {{ } }} <div class="actions"><div class="common-actions"><a href="#" class="jump-annotation">跳至此段</a><i class="middle-dot"></i><a href="#" class="share-annotation">推荐</a></div><div class="edit-actions"><span class="timestamp">{{- create_time}}</span><a href="#" class="delete-annotation">删除</a> {{ if(isNote) { }} <a href="#" class="modify-annotation">修改</a> {{ } }} </div></div></div>
 </script>
 </div>
-<script src="/js/dist/reader/setup.js"></script>
+<script src="/js/src/require.js"></script>
+<script src="/js/src/require-config.js"></script>
 <script>
     var Ark = {
         me: {
